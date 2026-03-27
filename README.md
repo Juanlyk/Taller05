@@ -18,10 +18,10 @@
 
   <br>
 
-  - Valeria Colmenares Moreno  
-  - Juan Esteban Chaves Lesmes 
-  - Alejandro Oconnor Morales  
-  - Angelica Parra Araque   
+  - Valeria Colmenares Moreno | 
+  - Juan Esteban Chaves Lesmes | 202614029
+  - Alejandro Oconnor Morales | 202520801
+  - Angélica Parra Araque | 202614123
 
 </details>
 
